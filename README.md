@@ -124,7 +124,7 @@ The model successfully generates segmentation masks suitable for:
 - Video background processing
 
 (Add demo images/videos here)
-![Model Result](demo/before_after_images)
+![Model Result](demo/before_after_images/result.png)
 
 ---
 
