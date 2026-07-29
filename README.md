@@ -51,7 +51,7 @@ The generated mask can them be used to separate the subject from the background
 
 # Architecture
 
-![Model Architecture](docs/architecture.png)
+![Model Architecture](docs/architecture.webp)
 
 The model uses:
 
